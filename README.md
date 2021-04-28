@@ -6,6 +6,7 @@ The data was sourced from the OpenWeatherMap API, which is free and provides a g
 
 This app was built in a short time, which means there is a lot to improve, such as:
 - style.
+- use your gps location to render the forecast where you are at the moment.
 - testing.
 - store locations that are interested to the user.
 - filter the data by time.
