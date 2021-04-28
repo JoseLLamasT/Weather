@@ -17,13 +17,16 @@ Additionally, it should be better to show the data in shorter periods because in
 There is a file in the root folder called dataMode.json, this file does not do anything but it is how the data fetched from the api looks like, so its a great toole to consider what else can be improved. 
 
 If you want to improve or use this project, you must:
+
 -Download or clone it.
+
 -Open the project in any code editor, for example, Visual Studio Code.
+
 -Open terminal and go to the "my-app" folder namely 'weather-> client -> my-app' and run npm install in your terminal. This will install all the dependencies you will need.
+
 -In the src folder my-app 'weather-> client -> my-app ->' creane a new file called .env, inside you should declare a new variable called APYKEY=your API key
 
 <img src="https://user-images.githubusercontent.com/69245960/116479883-ac9a3680-a880-11eb-8966-4ab8853c2a45.png" width="350"></img>
-
 
 -Now you can run npm start, as a result, react will run on port http: //localhost: 3000, but if you are using that port, check-in your terminal which port react has selected (most likely http:// localhost :3001)
 
