@@ -13,6 +13,8 @@ This app was built in more than 6 hours, which means there is a lot to improve, 
 
 Additionally, it should be better to show the data in shorter periods because in three hours it can have significant changes.
 
+There is a file in the root folder called dataMode.json, this file does not do anything but it is how the data fetched from the api looks like, so its a great toole to consider what else can be improved. 
+
 If you want to improve or use this project, you must:
 -Download or clone it.
 -Open the project in any code editor, for example, Visual Studio Code.
