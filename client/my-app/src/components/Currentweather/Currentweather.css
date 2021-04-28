@@ -1,0 +1,42 @@
+.container-Currentweather {
+	background-color: rgba(235, 227, 227, 0.514);
+	max-width: 400px;
+	min-width: 300px;
+	width: 100%;
+	padding: 0.5rem;
+	border-radius: 10px;
+	display: none;
+	margin-bottom: 5%;
+}
+h2 {
+	margin-left: 15%;
+}
+.info {
+	max-width: 500px;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+}
+.additionalInfo {
+	margin-top: 0;
+	font-weight: bold;
+}
+
+@media only screen and (min-width: 480px) {
+	.container-Currentweather {
+		width: 50%;
+		display: block;
+		margin-bottom: 5%;
+	}
+	h2 {
+		margin-left: 15%;
+	}
+}
+/* Desktop screen Sizes */
+@media only screen and (min-width: 768px) {
+	.container-Currentweather {
+		width: 50%;
+		display: block;
+		margin-bottom: 0%;
+	}
+}

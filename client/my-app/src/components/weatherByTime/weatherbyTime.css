@@ -1,0 +1,24 @@
+.container-weater {
+	flex: 0 0 15%;
+	min-width: 240px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-right: 1%;
+	background-color: rgba(235, 227, 227, 0.514);
+	border-radius: 3%;
+	margin-top: 2%;
+	padding: 1rem;
+}
+h5,
+h3,
+p {
+	margin-top: 0%;
+}
+h5,
+p {
+	margin-bottom: 0%;
+}
+.container-weater p {
+	font-size: small;
+}
