@@ -17,4 +17,4 @@ Now you can run npm start, as a result, react will run on port http: //localhost
 
 
 <h3>in a tablet or phone it would be like</h3>
-<img src="https://user-images.githubusercontent.com/69245960/116417943-00cef780-a83c-11eb-965e-3b86baceea7f.pn"></img>
+<img src="https://user-images.githubusercontent.com/69245960/116417943-00cef780-a83c-11eb-965e-3b86baceea7f.png"></img>
