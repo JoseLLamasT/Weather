@@ -4,7 +4,7 @@ It is a small exercise where you can see the weather forecast in different locat
 
 The data was sourced from the OpenWeatherMap API, which is free and provides a good amount of data, including icons, temperature, wind speed, etc.
 
-This app was built in more than 6 hours, which means there is a lot to improve, such as:
+This app was built in a short time, which means there is a lot to improve, such as:
 - style.
 - testing.
 - store locations that are interested to the user.
