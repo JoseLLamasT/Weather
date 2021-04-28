@@ -26,7 +26,9 @@ If you want to improve or use this project, you must:
 
 -In the src folder my-app 'weather-> client -> my-app ->' creane a new file called .env, inside you should declare a new variable called APYKEY=your API key
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/69245960/116479883-ac9a3680-a880-11eb-8966-4ab8853c2a45.png" width="350"></img>
+</div>
 
 -Now you can run npm start, as a result, react will run on port http: //localhost: 3000, but if you are using that port, check-in your terminal which port react has selected (most likely http:// localhost :3001)
 
