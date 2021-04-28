@@ -9,6 +9,7 @@ This app was built in more than 6 hours, which means there is a lot to improve, 
 - testing.
 - store locations that are interested to the user.
 - filter the data by time.
+- clicking a card and get more information at that exact time.
 
 Additionally, it should be better to show the data in shorter periods because in three hours it can have significant changes.
 
