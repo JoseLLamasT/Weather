@@ -12,8 +12,9 @@ Open the project in any code editor, for example, Visual Studio Code.
 Open terminal and go to the "my-app" folder namely 'weather-> client -> my-app' and run npm install in your terminal. This will install all the dependencies you will need.
 Now you can run npm start, as a result, react will run on port http: //localhost: 3000, but if you are using that port, check-in your terminal which port react has selected (most likely http:// localhost :3001)
 
-<div width="350">
-<img src="https://user-images.githubusercontent.com/69245960/116415641-e562ed00-a839-11eb-90c1-bf8578d6db08.png"></img>
-<img src="https://user-images.githubusercontent.com/69245960/116416536-b731dd00-a83a-11eb-99b7-42ee99e6988d.png"></img>
-<img src="https://user-images.githubusercontent.com/69245960/116416547-ba2ccd80-a83a-11eb-833b-1866043f3336.png"></img>
-</div>
+<h3>This app it would looks like</h3>
+<img src="https://user-images.githubusercontent.com/69245960/116417939-ff9dca80-a83b-11eb-8861-eba779e189ae.png"></img>
+
+
+<h3>in a tablet or phone it would be like</h3>
+<img src="https://user-images.githubusercontent.com/69245960/116417943-00cef780-a83c-11eb-965e-3b86baceea7f.pn"></img>
