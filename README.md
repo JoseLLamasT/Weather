@@ -16,7 +16,9 @@ Additionally, it should be better to show the data in shorter periods because in
 
 There is a file in the root folder called dataMode.json, this file does not do anything but it is how the data fetched from the api looks like, so its a great toole to consider what else can be improved. 
 
-If you want to improve or use this project, you must:
+
+
+<h3>If you want to improve or use this project, you must:</h3>
 
 -Download or clone it.
 
