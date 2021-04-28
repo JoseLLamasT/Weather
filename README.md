@@ -19,7 +19,7 @@ If you want to improve or use this project, you must:
 -Open terminal and go to the "my-app" folder namely 'weather-> client -> my-app' and run npm install in your terminal. This will install all the dependencies you will need.
 -Now you can run npm start, as a result, react will run on port http: //localhost: 3000, but if you are using that port, check-in your terminal which port react has selected (most likely http:// localhost :3001)
 
-<h3>This app it would looks like</h3>
+<h3>this is how this app would look like</h3>
 <img src="https://user-images.githubusercontent.com/69245960/116417939-ff9dca80-a83b-11eb-8861-eba779e189ae.png"></img>
 
 
