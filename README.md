@@ -24,10 +24,8 @@ There is a file in the root folder called dataMode.json, this file does not do a
   <li>Download or clone it</li>
    <li>Open the project in any code editor, for example, Visual Studio Code</li>
    <li>Open terminal and go to the "my-app" folder namely 'weather-> client -> my-app' and run npm install in your terminal. This will install all the dependencies you will need</li>
-   <li>In the src folder my-app 'weather-> client -> my-app ->' creane a new file called .env, inside you should declare a new variable called APYKEY=your API key
-     <div align="center">
-<img src="https://user-images.githubusercontent.com/69245960/116479883-ac9a3680-a880-11eb-8966-4ab8853c2a45.png" width="350"></img>
-</div>
+   <li>In the src folder my-app 'weather-> client -> my-app -> you will find another readme file, where explain in details how to make the react libary works'
+     
 </li>
    <li>Now you can run npm start, as a result, react will run on port http: //localhost: 3000, but if you are using that port, check-in your terminal which port react has selected (most likely http:// localhost :3001)</li>
 
